@@ -21,8 +21,6 @@ test case design, defect reporting, and API testing using Postman.
 
 ## Test Artifacts Included
 - Detailed test cases
-- Test scenarios
-- Sample test plan
 - Bug reports
 - API test cases
 
