@@ -25,7 +25,6 @@ test case design, defect reporting, and API testing using Postman.
 - Sample test plan
 - Bug reports
 - API test cases
-- Agile workflow documentation
 
 ## Target Role
 Associate QA Engineer / Manual Tester (Fresher)
